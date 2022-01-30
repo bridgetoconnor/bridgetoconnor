@@ -14,6 +14,7 @@ I live in Florida and have worked in tech for over 20 years, first as a develope
 - 📖 My current focus is on positions related to building the metaverse. 
 - 💬 Ask me career-related questions.
 - ⚡ Fun fact: I have an adorable yellow lab named Kona.
+
 ![IMG_3847 (1)](https://user-images.githubusercontent.com/49008418/151709360-c6598565-c40d-4cc8-9db8-51a775bae6e3.jpg)
 
 
