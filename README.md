@@ -10,7 +10,7 @@ I live in Florida and have worked in tech for over 20 years, first as a develope
   - DevOps
   - Big Data
   - AI/Machine Learning
-  - Blockchain
+  - Blockchain/NFTs
 - 📖 My current focus is on positions related to building the metaverse. 
 - 💬 Ask me career-related questions.
 - 📫 How to reach me: By [email](bridget@infosecrecruiting.com), or [LinkedIn](http://linkedin.com/in/therecruitinggoddess/)
