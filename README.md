@@ -18,7 +18,7 @@ I live in Florida and have worked in tech for over 20 years, first as a develope
 ![IMG_3847 (1)](https://user-images.githubusercontent.com/49008418/151709360-c6598565-c40d-4cc8-9db8-51a775bae6e3.jpg)
 
 
-- - 📫 How to reach me: By [email](bridget@infosecrecruiting.com), or [LinkedIn](http://linkedin.com/in/therecruitinggoddess/)
+- - 📫 How to reach me: By [email](mailto:bridget@infosecrecruiting.com), or [LinkedIn](http://linkedin.com/in/therecruitinggoddess/)
 <!---
 bridgetoconnor/bridgetoconnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
