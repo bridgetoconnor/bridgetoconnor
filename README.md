@@ -5,13 +5,13 @@ I live in Florida and have worked in tech for over 20 years, first as a develope
 - 😄 Pronouns: she/her
 - 🖥 I am a life-long learner and love placing supremely talented individuals into positions creating and supporting cutting edge technology that truly makes a difference in the world.
 - 💡 Areas of specialization include:
-  - Cybersecurity
-  - Cloud-native development
+  - Cybersecurity (software and hardware)
+  - Software engineers (front end, back end, full stack)
   - DevOps
-  - Big Data
-  - AI/Machine Learning
-  - Blockchain/NFTs
-- 📖 My current focus is on positions related to building the metaverse. 
+  - Big Data / AI / ML
+  - AR/VR
+  - Blockchain/NFTs/Smart Contracts
+- 📖 My current focus is on remote technology positions.
 - 💬 Ask me career-related questions.
 - ⚡ Fun fact: I have an adorable yellow lab named Kona.
 
